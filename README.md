@@ -1,2 +1,2 @@
 # AISD
-Repository for AISD
+Repository for AISD code
